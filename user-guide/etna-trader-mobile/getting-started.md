@@ -15,10 +15,6 @@ AutoShares for Mobile serves as an extension of AutoShares Web and provides simi
 5. Analyzing charts;
 6. Exploring the market depth of various securities.
 
-To take a quick look at AutoShares in action, feel free to watch our vide overview of the app:
-
-{% embed url="https://www.youtube.com/watch?v=mypMwSeuYl4&t=2s" %}
-
 ### Downloading AutoShares Mobile
 
 AutoShares Mobile is available on the [App Store] and [Google Play] for both Android Phones,  iPhone, iPad, Tablet and so on. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
