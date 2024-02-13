@@ -2,7 +2,7 @@
 
 ### Overview
 
-AutoShares is a cross-platform trading suite that enables brokers to provide all-encompassing trading functionality to their customers. Even though AutoShares provides both the web and the mobile interfaces for executing trades and analyzing markets, some brokers opt to implement their own custom interfaces that suit their requirements. For this purpose, AutoShares offers a trader as well as extedned REST API that can be invoked to perform various trading operations like creating users, getting quotes, and placing orders. 
+AutoShares is a cross-platform trading suite that enables brokers to provide all-encompassing trading functionality to their customers. Even though AutoShares provides both the web and the mobile interfaces for executing trades and analyzing markets, some users opt to implement their own custom interfaces that suit their requirements. For this purpose, AutoShares offers a trader as well as extedned REST API that can be invoked to perform various trading operations like creating users, getting quotes, and placing orders. 
 
 In this scenario AutoShares serves as the backend platform for your own custom-made web terminal or mobile app. Your task is to develop the mobile and web UI that invoke our API to perform all of the trading operations. On our side, we will execute your customers' orders on the required exchange, settle all transactions with the clearing firm, and take care of all of behind-the-scenes technicalities.
 
