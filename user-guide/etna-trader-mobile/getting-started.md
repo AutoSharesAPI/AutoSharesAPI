@@ -29,9 +29,7 @@ AutoShares Mobile is available on the [App Store](https://itunes.apple.com/us/ap
 
 After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in AutoShares Web, you can use those credentials to log into the mobile app.&#x20;
 
-![](../../.gitbook/assets/img\_0007\_iphonexspacegrey\_portrait.png)
-
-On the sign-up window, proceed to specify your information:
+On the mobile app sign-up window, proceed to specify your information:
 
 * First name;
 * Last name;
