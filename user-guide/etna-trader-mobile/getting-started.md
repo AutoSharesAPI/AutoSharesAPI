@@ -19,8 +19,6 @@ AutoShares for Mobile serves as an extension of AutoShares Web and provides simi
 
 AutoShares Mobile is available on the [App Store] and [Google Play] for both Android Phones,  iPhone, iPad, Tablet and so on. It also features an extension for the Apple Watch that enables users to track their positions, profit and loss figures, account information, etc.
 
-![](../../.gitbook/assets/img\_4eaf831e2b67-1-2\_iphonexspacegrey\_portrait.png)
-
 ### Signing Up
 
 After you've downloaded the app, launch the app and tap on **Sign up**. if you've already signed up in AutoShares Web, you can use those credentials to log into the mobile app.&#x20;
