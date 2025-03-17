@@ -1,4 +1,4 @@
-# What is AutoShares?
+# Deploy Apps with AutoShares API
 
 AutoShares is an all-in-one front-to-back-office online brokerage and trading solution consisting of several components: web trader, mobile trading applications for iOS and Android, OMS with a middle and back office and a suite of APIs for self-directed Stock, ETF, and Options trading. Services are available for fintech companies, app developers, RIAs, B2B2C companies, US and NON-US broker-dealers.   
 
