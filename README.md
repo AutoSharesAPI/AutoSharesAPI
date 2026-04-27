@@ -6,6 +6,7 @@ AutoShares integrated vendors and trading APIs can be used as a whole turn-key t
 
 Features include:
 
+* Vibe Code with AI
 * Trade equities, options \(including multi-legs\), and ETFs.
 * Web-based custom widgets and tabs designer - "trading browser within a web browser" 
 * Market Analytics with streaming market data \(LI and LII\)
